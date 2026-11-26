@@ -7,9 +7,9 @@ int main() {
 
     main_menu:
     printf("\n");
-    printf("\t=======https://www.onlinegdb.com/online_c_compiler#editor_1==================================\n");
+    printf("\t==========================================\n");
     printf("\t      STUDENT RESULT MANAGEMENT SYSTEM   \n");
-    printf("\t=========================================\n");
+    printf("\t==========================================\n");
     printf("\t [1] Calculate Total and Average Marks\n");
     printf("\t [2] Determine Student Grade\n");
     printf("\t [3] Check Pass/Fail Result Status\n");
